@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/HowlsPiano.wav-79a7efaed168cd12c6fc6afc313445bd.sample"
+
+[deps]
+
+source_file="res://HowlsPiano.wav"
+dest_files=[ "res://.import/HowlsPiano.wav-79a7efaed168cd12c6fc6afc313445bd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
